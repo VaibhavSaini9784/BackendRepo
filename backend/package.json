@@ -9,7 +9,7 @@
     "server": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vaibhav",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
